@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2RlZmhpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxEGR1VudHVrIG1lcmF5YWthbiB1bGFuZyB0YWh1bnlhLCBCZXlvbmNlIGRhbiBzYW5nIHN1YW1pLCBKYXktWiBtZW1iZWxpIHJ1bWFoIGJhcnUgYmVydXNpYSAxMDAgdGFodW4gZGkgSGFtcHRvbnMuCgpTZWxhaW4gbWVtaWxpa2kgc2VqdW1sYWgga2FtYXIgZGFuIHJ1YW5nYW4ga2VsdWFyZ2EgeWFuZyBzYW5nYXQgbWV3YWgsIHJ1bWFoIHRlcnNlYnV0IHRlcm55YXRhIGp1Z2EgZGlsZW5na2FwaSBzZWJ1YWggZGFwdXIgeWFuZyBzYW5nYXQgbWVuYWtqdWJrYW4uCgpEaWxhbnNpciBkYXJpIE9rZXpvbmUsIFNlbGFzYSAoMjYvOS8yMDE3KSwgcnVtYWggeWFuZyBkaW5hbWFrYW4gUG9uZCBIb3VzZSBpdHUsIGJlcmhhc2lsIGRpYm95b25nIEJleW9uY2UgZGFuIEpheS1aIHNlaGFyZ2EgMjUganV0YSBVU0QgYXRhdSBzZWtpcmEgUnAzMzQgbWlsaWFyLiBQcm9wZXJ0aSB0ZXJzZWJ1dCBkaXNpbnlhbGlyIG1lbWlsaWtpIGx1YXMgaGluZ2dhIDEuMTE1IG1ldGVyIHBlcnNlZ2kgZGVuZ2FuIGxpbWEga2FtYXIgdGlkdXIsIHNlbWJpbGFuIGthbWFyIG1hbmRpLCBkYW4gc2VidWFoIGd1ZXN0aG91c2UgeWFuZyBzYW5nYXQgbHVhcy4KCkthbWFyIG1hbmRpbnlhIHNlbmRpcmkgZGloaWFzaSBvbGVoIGJhdHUga2FwdXIgZGFuIGJhdHUgbWFybWVyIHlhbmcgZGlkZXNhaW4gc2VkZW1pa2lhbiBydXBhIHNlaGluZ2dhIHRlcmxpaGF0IGVsZWdhbiBkYW4gbnlhbWFuLiBTZW1lbnRhcmEgaW50ZXJpb3IgbGFpbm55YSBzZXBlcnRpIHRlbXBhdCBwZXJhcGlhbiBkaWxlbmdrYXBpIGhpYXNhbiBrYXl1IGVrIHB1dGloIGRlbmdhbiBiYXR1IHVraXJhbi4KCk5hbXVuIHlhbmcgbWVuamFkaSBiaW50YW5nIHV0YW1hIGRhcmkgc2VsdXJ1aCBydWFuZ2FuIHlhbmcgYWRhIGRpIHJ1bWFoIHRlcnNlYnV0IGFkYWxhaCBiYWdpYW4gZGFwdXJueWEgeWFuZyBzYW5nYXQgbWVnYWguIFNlbGFpbiBydWFuZyBtYWthbiBmb3JtYWwsIHJ1bWFoIGluaSBtZW1pbGlraSBydWFuZ2FuIGJlc2FyIHlhbmcgZGlzZWJ1dCBncmVhdCByb29tLiBSdWFuZ2FuIHRlcnNlYnV0IGRpZ3VuYWthbiBzZWJhZ2FpIGRhcHVyIGRhbiB1bnR1ayBzYXJhcGFuIHBhZ2kgZGVuZ2FuIGRlc2FpbiBpbnRlcmlvciBraGFzIFByYW5jaXMuCgpEaSBiZWxha2FuZyBkYXB1ciB1dGFtYSwgYWRhIHNlYnVhaCBkYXB1ciBrYXRlcmluZyBkYW4gYSB3YWxrLWluIHBhbnRyeSAoc2VidWFoIHRlbXBhdCB1bnR1ayBtZW55aW1wYW4gYmVyYmFnYWkgYnVtYnUgbWFzYWthbiBkYW4gc2F1cyBzYW1iYWwga2VzdWthYW4gQmV5b25jZSkuIFRpZGFrIGhhbnlhIGl0dSwgZGFwdXIgdGVyc2VidXQganVnYSBkaWxlbmdrYXBpIHNlYnVhaCB0ZXJhcyBiZXJsYXBpcyBiYXR1IGthcHVyIGFzYWwgVHVya2ksIGRlbmdhbiBhcmVhIHBlbWFuZ2dhbmdhbiBvdXRkb29yIHlhbmcgc2FuZ2F0IGx1YXMuCgooU2ltYWsganVnYTogQ2FyYSBNZW5hdGEgRGFwdXIgU2VtcGl0IEFnYXIgVGVyYXNhIExlZ2EpCgpTZWJ1YWggbG9rYXNpIHlhbmcgaWRlYWwgdW50dWsgbWVuZ2FkYWthbiBwZXN0YSBiYXJiZXF1ZSBzYW1iaWwgbWVuaWttYXRpIGJpcnVueWEgYWlyIGtvbGFtIHJlbmFuZyBzZXBhbmphbmcgMTMgbWV0ZXIu0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAHoAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iMkJSYKJygpKiksKlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAkjQDYAAAAAAACACYAL0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMzVYTlNPYmplY3TSMTI3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5NV8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo/QkWiQEGADoAPokNEgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABYT3BlblNhbnPSMTJLTF8QE05TTXV0YWJsZURpY3Rpb25hcnmjS001XE5TRGljdGlvbmFyedIxMk9QXxAQTlNGb250RGVzY3JpcHRvcqJRNV8QEE5TRm9udERlc2NyaXB0b3LTERIKU1gdpFRVVleAFYAWgBeAGKRZWltcgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/tqOzX8ilZiM/8AAAAAAAACM/tqGkfgLJCyM/tqGkfgLJC9IxMk1nok01EADSMTJqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigbVBtwG5AbvBvQG9gb4BvoG/AcBBwMHBQcHBwkHCwceB0AHbQd0B4EHjAeYB6oHtwfJB8sHzQfWB9gH2gffB+AH4gfnB/IH+wgDCAYIDwgUCC4IMghFCEoIZwhpCGsIcgh1CHcIeQh8CH4IgAiCCJgIrgi3CMAIxQjbCN8I7AjxCQQJBwkaCSEJJgkoCSoJLAkuCTMJNQk3CTkJOwk9CUEJRwlMCVIJWwlkCW0Jdgl7CX4JgAmFCZoJnQmyCcQJxwnMAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAACc4="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C0580656-FAD6-4683-83C2-152D12CB7838",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 572,
+    "width": 742,
+    "x": 342,
+    "y": 753
+  },
+  "glyphBounds": "{{0, 5}, {729, 565}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Untuk merayakan ulan",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C3DB4926-C5B0-4120-8747-E62F291308DA"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "3DD21E68-9703-4751-8461-324CF8E1F6BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2CCACEAC-0614-461B-B7CF-BF3FB1A574BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD2881DC-6EFC-4D76-879B-68FA90B3C646",
+    "height": 67,
+    "width": 251,
+    "x": 267,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F3C16B02-42B7-4A7F-8BC9-A35335213A48"
+    },
+    {
+      "class": "group",
+      "id": "2BACC1B8-2642-43BE-B17C-422DF86AC762"
+    }
+  ],
+  "name": "Group Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7C742FE-FA70-489D-B033-D5C0E577BC37",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 8,
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_f2ff0e79-82cf-40ab-a5d5-cf00c3b0b68b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_4da61d0d-3779-426f-8ec1-99f6b5609c13",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

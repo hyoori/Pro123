@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "A10A4B60-04C6-44EB-9515-16668F10181E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 36,
+    "width": 308,
+    "x": 365,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "05FD4D51-7647-44BF-89B3-2E2D6BA9E210"
+    },
+    {
+      "class": "group",
+      "id": "345CB4CF-F38F-481F-8161-ECF37E34644D"
+    },
+    {
+      "class": "group",
+      "id": "614E5641-241E-4416-ADC5-34CCBE008BF4"
+    },
+    {
+      "class": "group",
+      "id": "D508B614-2005-4E61-8DD8-C64A37E9C825"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "constraints": {
+          "aspectRatio": {
+            "constant": 36,
+            "enabled": 1,
+            "modelID": "constraint_9e7fcbc5-22af-4eba-8f4b-86c5dadefeeb",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 308
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_31fe2376-dd47-4a26-9513-57b45d48cf1c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
+        "isCollapsing": 1,
+        "spacing": 16,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

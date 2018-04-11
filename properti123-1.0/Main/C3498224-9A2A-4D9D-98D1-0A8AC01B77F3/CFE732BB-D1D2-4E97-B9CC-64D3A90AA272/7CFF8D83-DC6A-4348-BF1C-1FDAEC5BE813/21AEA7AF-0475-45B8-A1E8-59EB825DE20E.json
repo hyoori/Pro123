@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "21AEA7AF-0475-45B8-A1E8-59EB825DE20E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 390,
+    "width": 357,
+    "x": 387,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "259996B2-D2D6-423B-B827-263983FC00DF_stringValue",
+      "value": "Depok, Jl. Margonda Raya"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9319C60B-506A-4DC8-A461-164B81887A59_symbolID",
+      "value": "1CC699F2-324B-4255-9A62-6EBA2E8AF51F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "008142A4-55D0-40A5-A189-D540F18EBEC1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9379a7c4268fb8706889b9dbe27d5acd54ab74b6",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B3E112F8-40D4-4761-8CD8-C596AF9EFC0D_stringValue",
+      "value": "Casa Grande - Kota Kasablanka"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "592FBAC8-9917-4BB3-B3A6-1109B8A3C89B_stringValue",
+      "value": "Apartemen Disewakan"
+    }
+  ],
+  "overrides": {
+    "008142A4-55D0-40A5-A189-D540F18EBEC1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/9379a7c4268fb8706889b9dbe27d5acd54ab74b6",
+      "_ref_class": "MSImageData"
+    },
+    "259996B2-D2D6-423B-B827-263983FC00DF": "Depok, Jl. Margonda Raya",
+    "592FBAC8-9917-4BB3-B3A6-1109B8A3C89B": "Apartemen Disewakan",
+    "9319C60B-506A-4DC8-A461-164B81887A59": {
+      "symbolID": "1CC699F2-324B-4255-9A62-6EBA2E8AF51F"
+    },
+    "B3E112F8-40D4-4761-8CD8-C596AF9EFC0D": "Casa Grande - Kota Kasablanka"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 2,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "E441B706-1F4F-4419-AC1B-6C8ED22E44D5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

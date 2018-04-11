@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "305CEFB3-4D54-4893-8BD3-040D17209B56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1760,
+    "width": 740,
+    "x": 150,
+    "y": 954
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "498EAD16-0C7E-4747-B193-B588C0707585"
+    },
+    {
+      "class": "group",
+      "id": "F8CD2F0B-6198-4022-B0C5-7609A08BAC18"
+    },
+    {
+      "class": "group",
+      "id": "50323626-73F3-4B7D-8813-25597B4AE4C1"
+    }
+  ],
+  "name": "Pertanyaan Terbaru",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

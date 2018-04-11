@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "612FD242-A8AB-40EE-8A7B-6CA8566A9DBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 146,
+    "width": 550,
+    "x": 0,
+    "y": 170
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A0219B8E-C75C-4DAA-85C9-5C4492A87C65"
+    },
+    {
+      "class": "group",
+      "id": "50A354C3-18C3-4DC4-B987-AE44ACB427BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CE355BE-26BA-40F5-B5D6-5B11A6AAF1A4"
+    }
+  ],
+  "name": "Blog Overview",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

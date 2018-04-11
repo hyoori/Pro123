@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CEA60FF7-8C87-4036-AA66-C990A5DC9536",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 115,
+    "width": 518,
+    "x": 0,
+    "y": 393
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card/Product Card Horizontal Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D1A83C1-58A2-46D7-ADF8-70697BFC1FC3_stringValue",
+      "value": "Apartemen Dijual"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8178A81B-3A88-4003-8F4C-DCA5AEE65713_stringValue",
+      "value": "Jalan Raya Semat"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21A8EB02-C08A-4E2F-9961-6EECECD028A5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/69be475a53b6da9f3bdf057ac51557c72acbb451",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "21A8EB02-C08A-4E2F-9961-6EECECD028A5": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/69be475a53b6da9f3bdf057ac51557c72acbb451",
+      "_ref_class": "MSImageData"
+    },
+    "8178A81B-3A88-4003-8F4C-DCA5AEE65713": "Jalan Raya Semat",
+    "9D1A83C1-58A2-46D7-ADF8-70697BFC1FC3": "Apartemen Dijual"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2D32F529-2728-43AC-A160-256C70E26B36",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

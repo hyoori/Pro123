@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2RlZmhpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxECV0hhbG8uIFNheWEgQ2hyaXN0aW5hIEFiYWQuCgpTYXlhIGFkYWxhaCBzYWxhaCBzYXR1IHBlcndha2lsYW4gcmVhbCBlc3RhdCBwYWxpbmcgYmVycGVuZ2FsYW1hbiBkaSBMYXVuY2VzdG9uIGRhbiB3aWxheWFoIEdyZWF0ZXIgTGF1bmNlc3RvbiBkYW4gc2F5YSBzZW5hbmcgYmlzYSBiZXJnYWJ1bmcgZGVuZ2FuIFBhcnJ5IFByb3BlcnR5IHVudHVrIG1lbmdoYWRpcmthbiBwZW5kZWthdGFuIHBlbWFzYXJhbiBiYXJ1IGRhbiBpbm92YXRpZiB0ZXJoYWRhcCBzaWZhdCBrbGllbm55YS4gU2F5YSBtZW1pbGlraSBrZWFobGlhbiBraHVzdXMgZGVuZ2FuIGtlcGVtaWxpa2FuIHBlZGVzYWFuIHlhbmcgYmVzYXIgc2VydGEgcGV0ZXJuYWthbiBob2JpIGdheWEgaGlkdXAgeWFuZyBsZWJpaCBrZWNpbCBkYW4gc3ViZGl2aXNpIHBlcnVtYWhhbi4KClNpZmF0IHNlcml1cyBkYXJpIHRyYW5zYWtzaSByZWFsIGVzdGF0IG1lbWJ1dHVoa2FuIHBlcmhhdGlhbiBrcml0aXMgdGVyaGFkYXAgZGV0YWlsLCBkYW4gc2F5YSB0ZXRhcCBkZW5nYW4gcGVuZ2V0YWh1YW4gaW5kdXN0cmkgZGFuIGFzcGVrIGh1a3VtIHNhYXQgaW5pIHVudHVrIG1lbWluaW1hbGthbiByaXNpa28u0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAHoAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iMkJSYKJygpKiksKlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAkjQDYAAAAAAACACYAL0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMzVYTlNPYmplY3TSMTI3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5NV8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo/QkWiQEGADoAPokNEgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABYT3BlblNhbnPSMTJLTF8QE05TTXV0YWJsZURpY3Rpb25hcnmjS001XE5TRGljdGlvbmFyedIxMk9QXxAQTlNGb250RGVzY3JpcHRvcqJRNV8QEE5TRm9udERlc2NyaXB0b3LTERIKU1gdpFRVVleAFYAWgBeAGKRZWltcgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/2ZmZmZmZmiM/8AAAAAAAACM/2ZmZmZmZmiM/2ZmZmZmZmtIxMk1nok01EADSMTJqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigLlAuwC9AL/AwQDBgMIAwoDDAMRAxMDFQMXAxkDGwMuA1ADfQOEA5EDnAOoA7oDxwPZA9sD3QPmA+gD6gPvA/AD8gP3BAIECwQTBBYEHwQkBD4EQgRVBFoEdwR5BHsEggSFBIcEiQSMBI4EkASSBKgEvgTHBNAE1QTrBO8E/AUBBRQFFwUqBTEFNgU4BToFPAU+BUMFRQVHBUkFSwVNBVEFVwVcBWIFawV0BX0FhgWLBY4FkAWVBaoFrQXCBdQF1wXcAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAABd4="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "648AFEE7-7DA3-43D1-A2AF-8A25B642DC89",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 646,
+    "x": 0,
+    "y": 51
+  },
+  "glyphBounds": "{{0, 5}, {638, 213}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Halo. Saya Christina",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E093067E-46D3-4281-ABC9-DDB8172E0FCB"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

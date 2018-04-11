@@ -1,0 +1,68 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAcHR4fKywtLi8wMTIzOUFER0pOVldYWVpdYVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA1VKYXdhYtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBWAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8ycnJywA9EjP/AAAAAAAAAjP+0dHR0hbPAjP9DQ0NDGCULSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNQ6Cjs8PT4/P1pOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAgBSAEoAS0hIKQkOggBPSNDVFRldOU0FycmF5okU40jQ1SElfEBBOU1BhcmFncmFwaFN0eWxlokg40gpLTE1fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AcgBbTERIKT1JVolBRgBeAGKJTVIAZgBqAG18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXxART3BlblNhbnMtU2VtaWJvbGTSNDVbXF8QE05TTXV0YWJsZURpY3Rpb25hcnmjWzY40jQ1Xl9fEBBOU0ZvbnREZXNjcmlwdG9yomA4XxAQTlNGb250RGVzY3JpcHRvctI0NWJjXxASTlNBdHRyaWJ1dGVkU3RyaW5nomQ4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WdoVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAI4AlQCdAKgArACuALAAsgC2ALgAugC8AL4A6wD+ASABJwEsAS4BMAEyATQBOQE7AT0BPwFBAUMBRwFNAVIBWAFhAWoBcwF8AYEBjAGVAaIBpQGuAbcBwgHPAdsB3QHfAeEB4wHoAekB6wHwAfgB+wIAAhMCFgIbAjgCOgI8AkMCRgJIAkoCTQJPAlECUwJpAn8CiAKcAqECtwK7AsAC0wLWAukC7gMDAwYDGwMtAzADNQAAAAAAAAIBAAAAAAAAAGkAAAAAAAAAAAAAAAAAAAM3"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B6DDF7C3-69BF-44B8-B75A-E68232C762F3",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 41,
+    "x": 24,
+    "y": 7
+  },
+  "glyphBounds": "{{-2, 4}, {42, 14}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Jawab",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "9DF64752-619E-485F-98EF-C699BB0235D6"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerVertically": {
+            "constant": 0.5,
+            "enabled": 1,
+            "modelID": "constraint_40d0122e-9e88-4e3e-80dd-4840d8683b27",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_d32bb813-f39e-4a80-b933-f14e1973389c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

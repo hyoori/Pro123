@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "5B1F8147-9884-48F1-A895-59F7F8BB768E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 320,
+    "x": 0,
+    "y": 289
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A0646AA3-FD93-4498-9DC7-E6AA88B84A9B"
+    },
+    {
+      "class": "group",
+      "id": "13D52163-927C-48D8-A974-36C61D1E00E9"
+    },
+    {
+      "class": "group",
+      "id": "FCFC6058-05E2-45D5-9D6D-C6CC600E7BBC"
+    },
+    {
+      "class": "group",
+      "id": "5CE56A73-317F-4E9C-B67E-10A3078FC7EC"
+    }
+  ],
+  "name": "Quick Jump",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

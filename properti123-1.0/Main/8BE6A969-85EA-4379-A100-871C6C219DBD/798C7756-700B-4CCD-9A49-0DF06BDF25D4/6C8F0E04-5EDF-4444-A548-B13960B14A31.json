@@ -1,0 +1,124 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6C8F0E04-5EDF-4444-A548-B13960B14A31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 494,
+    "width": 550,
+    "x": 1,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Blog Overview",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A046A5CF-6D05-4C8F-9C15-068491EEE14C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/adb42457ec43dc3df491dc2dcc0afc1528a6b627",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7CF48622-BC59-4B83-9C03-A86A00EA591D_stringValue",
+      "value": "Trik Rumah Lekas Laku Sebelum Awal Ta…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A57C626B-D228-47C3-AF79-CDF39342158D_stringValue",
+      "value": "Kesalahan Umum Saat Menjual Rumah"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "35BD7A96-15A0-4872-8F75-F97FE407A833_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/902ae6144530e642bf49aba43741bcaa42b7e1ba",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3ED26EEB-2C1B-49AA-AF3D-32BB8FD41E88_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/662ab6c9f70f73a338ad317f224cb514def83229",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26E9B801-2D2F-43BF-876D-56077A31D2BA_stringValue",
+      "value": "100 Rumah Dijual Terpopuler di Indonesia"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3034E5CA-7150-47A5-A6E5-F6926EE320E0_stringValue",
+      "value": "Mencari rumah idaman bagi keluarga mungkin bukan sesuatu yang gampang dan kerapkali butuh proses yang panjang. Riset dan kunjungan tentunya harus Anda"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8DCAFE9C-1B78-455D-AC37-75418E050FD1_stringValue",
+      "value": "Baca Panduan Menjual Rumah Lainnya"
+    }
+  ],
+  "overrides": {
+    "26E9B801-2D2F-43BF-876D-56077A31D2BA": "100 Rumah Dijual Terpopuler di Indonesia",
+    "3034E5CA-7150-47A5-A6E5-F6926EE320E0": "Mencari rumah idaman bagi keluarga mungkin bukan sesuatu yang gampang dan kerapkali butuh proses yang panjang. Riset dan kunjungan tentunya harus Anda",
+    "35BD7A96-15A0-4872-8F75-F97FE407A833": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/902ae6144530e642bf49aba43741bcaa42b7e1ba",
+      "_ref_class": "MSImageData"
+    },
+    "3ED26EEB-2C1B-49AA-AF3D-32BB8FD41E88": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/662ab6c9f70f73a338ad317f224cb514def83229",
+      "_ref_class": "MSImageData"
+    },
+    "7CF48622-BC59-4B83-9C03-A86A00EA591D": "Trik Rumah Lekas Laku Sebelum Awal Ta…",
+    "8DCAFE9C-1B78-455D-AC37-75418E050FD1": "Baca Panduan Menjual Rumah Lainnya",
+    "A046A5CF-6D05-4C8F-9C15-068491EEE14C": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/adb42457ec43dc3df491dc2dcc0afc1528a6b627",
+      "_ref_class": "MSImageData"
+    },
+    "A57C626B-D228-47C3-AF79-CDF39342158D": "Kesalahan Umum Saat Menjual Rumah"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "516368FC-19C7-41E9-A455-90F7F79713E0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

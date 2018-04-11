@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EB57FD96-8183-4CDD-854E-D93D457F2511",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 351,
+    "width": 260,
+    "x": 580,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card/Product Card (Default) Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "13B99463-2D45-4854-B049-0127110801C1_stringValue",
+      "value": "Rumah Dijual"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C63E832-7EFA-4AC7-8381-2F2D4EA2A184_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4842a5ea9309c989ffd9cd0740c38a2d509c7f16",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4E5DDBFB-25DE-4ED9-97FB-C36A84FBAE53_stringValue",
+      "value": "Pondok Indah"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4356C4F4-5D39-4E89-8125-3FF2DA858D07_stringValue",
+      "value": "Rumah Minimalis Dijual Ce…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68FCB869-A17F-4D44-B5DB-CD2AA545A01B_symbolID",
+      "value": "3084991B-8B57-44A4-B879-B3A31E75E570"
+    }
+  ],
+  "overrides": {
+    "13B99463-2D45-4854-B049-0127110801C1": "Rumah Dijual",
+    "4356C4F4-5D39-4E89-8125-3FF2DA858D07": "Rumah Minimalis Dijual Ce…",
+    "4E5DDBFB-25DE-4ED9-97FB-C36A84FBAE53": "Pondok Indah",
+    "68FCB869-A17F-4D44-B5DB-CD2AA545A01B": {
+      "symbolID": "3084991B-8B57-44A4-B879-B3A31E75E570"
+    },
+    "8C63E832-7EFA-4AC7-8381-2F2D4EA2A184": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/4842a5ea9309c989ffd9cd0740c38a2d509c7f16",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "32887F6E-7A2F-4A08-B28F-20595439F1FE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

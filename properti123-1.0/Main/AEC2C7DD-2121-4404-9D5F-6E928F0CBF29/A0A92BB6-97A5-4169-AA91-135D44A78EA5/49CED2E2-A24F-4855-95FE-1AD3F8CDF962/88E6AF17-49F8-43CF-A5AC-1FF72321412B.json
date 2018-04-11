@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "88E6AF17-49F8-43CF-A5AC-1FF72321412B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 351,
+    "width": 260,
+    "x": 290,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card/Product Card (Default) Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "04111F30-6CA2-4913-BEAC-975A2A9E136D_stringValue",
+      "value": "Kemang Rumah Mewah Dip…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "712F4832-6C5C-451C-874F-95183C794A2B_stringValue",
+      "value": "Pondok Indah"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6B8D8016-16C0-46E7-9B7E-78B20AFF65D9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9c7be1ef4e48632f52747b2f35a5ee69bf711f2f",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "04111F30-6CA2-4913-BEAC-975A2A9E136D": "Kemang Rumah Mewah Dip…",
+    "6B8D8016-16C0-46E7-9B7E-78B20AFF65D9": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/9c7be1ef4e48632f52747b2f35a5ee69bf711f2f",
+      "_ref_class": "MSImageData"
+    },
+    "712F4832-6C5C-451C-874F-95183C794A2B": "Pondok Indah"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C465E3C4-940F-4DF1-A666-155D0087D772",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

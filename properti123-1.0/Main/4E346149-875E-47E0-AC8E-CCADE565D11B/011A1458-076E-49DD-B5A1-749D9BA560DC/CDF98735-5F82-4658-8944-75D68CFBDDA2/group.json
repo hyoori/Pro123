@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "CDF98735-5F82-4658-8944-75D68CFBDDA2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 1361,
+    "x": 32,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "47D3DC7B-9DEC-4C36-B566-A5C96605E8A0"
+    },
+    {
+      "class": "group",
+      "id": "67563B53-B9F2-46AB-823F-A3E5EAF7F36B"
+    },
+    {
+      "class": "group",
+      "id": "2502C1E0-E9AD-4819-BC79-B44E22941A79"
+    },
+    {
+      "class": "group",
+      "id": "9E65E818-3622-49B7-80F4-14A1EC36F495"
+    },
+    {
+      "class": "group",
+      "id": "AE8A560C-A71D-4F54-9B5E-191D231AF046"
+    },
+    {
+      "class": "group",
+      "id": "97E53A9B-F631-42C7-83D2-7766434BAB44"
+    }
+  ],
+  "name": "Hero Search Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

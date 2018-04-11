@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "98DDAF78-615F-47C7-96C1-26A9D1002C2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 351,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card/Product Card (Default) Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "16B891FC-C3ED-40C6-9346-723FE8DAE649_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c4da285f6ed3a1c654d1a165fb818e4048af8ee3",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "98AC3FDE-062C-4805-8F86-6F49EA20B179_stringValue",
+      "value": "Cleon Park, Garden City"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "48CCD7A9-3D3B-4A24-99D6-08CDD24BDD67_symbolID",
+      "value": "1208083B-C00F-4EB8-8279-73E2C616BF5A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B51DB060-88E1-423F-82C6-4ACA14E49520_stringValue",
+      "value": "Jakarta Timur, DKI Jakarta"
+    }
+  ],
+  "overrides": {
+    "16B891FC-C3ED-40C6-9346-723FE8DAE649": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/c4da285f6ed3a1c654d1a165fb818e4048af8ee3",
+      "_ref_class": "MSImageData"
+    },
+    "48CCD7A9-3D3B-4A24-99D6-08CDD24BDD67": {
+      "symbolID": "1208083B-C00F-4EB8-8279-73E2C616BF5A"
+    },
+    "98AC3FDE-062C-4805-8F86-6F49EA20B179": "Cleon Park, Garden City",
+    "B51DB060-88E1-423F-82C6-4ACA14E49520": "Jakarta Timur, DKI Jakarta"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "890A1423-8F93-4B37-BBDD-84D2BE9B160A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

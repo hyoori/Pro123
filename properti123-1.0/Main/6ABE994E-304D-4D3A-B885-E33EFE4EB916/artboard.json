@@ -1,0 +1,157 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "6ABE994E-304D-4D3A-B885-E33EFE4EB916",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2556,
+    "width": 1425,
+    "x": 18477,
+    "y": 11100
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F0F03E9A-CCA6-4B1C-A544-1BF644488BEA"
+    },
+    {
+      "class": "group",
+      "id": "6FFF0B1D-7C29-4F36-BA3A-61EB672287B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86E33B5F-2A87-4EE1-AA77-EA6DAA9FF3EA"
+    },
+    {
+      "class": "text",
+      "id": "FD083606-880E-4FB3-9EA6-84BF6CC73D89"
+    },
+    {
+      "class": "group",
+      "id": "702D3067-A64B-40BE-8885-043EDC90FD8D"
+    },
+    {
+      "class": "group",
+      "id": "C53AC090-01EE-4A80-9409-320947FF7836"
+    },
+    {
+      "class": "group",
+      "id": "A2F928E3-67BF-417C-9BE7-6237BE692F2A"
+    },
+    {
+      "class": "text",
+      "id": "9F445479-66C7-4C89-9CC1-26A98EE5361A"
+    },
+    {
+      "class": "group",
+      "id": "8DBD5309-EEB5-4633-B568-75DE0DCCBB62"
+    },
+    {
+      "class": "group",
+      "id": "607EB483-2E7E-426D-BFDB-B054100524E3"
+    },
+    {
+      "class": "group",
+      "id": "315030A9-D7BF-4A87-B3D6-46345E4B8EB7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 66.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 132.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1160
+  },
+  "name": "N02-Lihat Semua Pertanyaan",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 0.2,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 0.4,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.0884039695423624,
+        "green": 0.0884039695423624,
+        "red": 0.08843537414965986
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.4,
+        "red": 0.4
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5353422619047619,
+        "green": 0.5353422619047619,
+        "red": 0.5353422619047619
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7074829931972789,
+        "green": 0.7074829931972789,
+        "red": 0.7074829931972789
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8580197704081632,
+        "green": 0.8580197704081632,
+        "red": 0.8580197704081632
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9099968112244898,
+        "green": 0.9099968112244898,
+        "red": 0.9099968112244898
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9764705882352941,
+        "green": 0.9607843137254902,
+        "red": 0.9568627450980393
+      },
+      {
+        "_class": "color",
+        "alpha": 0.6,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9098039215686274,
+        "green": 0.2627450980392155,
+        "red": 0.2235294117647059
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.03098052871568847,
+        "green": 0.7131430697278912,
+        "red": 0.03098052871568847
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.5,
+              "blue": 1,
+              "green": 1,
+              "red": 1
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.5,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "F4C1F72D-ED52-4117-B4DC-FA739F217AD9",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
+  },
+  "pages": [
+    "Main",
+    "Mobile",
+    "Pending",
+    "Kitchen Sink",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

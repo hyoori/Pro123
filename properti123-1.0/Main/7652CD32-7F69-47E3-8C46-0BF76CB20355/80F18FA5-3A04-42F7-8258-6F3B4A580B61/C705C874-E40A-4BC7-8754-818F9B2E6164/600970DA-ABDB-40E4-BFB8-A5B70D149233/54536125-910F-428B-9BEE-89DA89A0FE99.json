@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "54536125-910F-428B-9BEE-89DA89A0FE99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 313,
+    "width": 260,
+    "x": 580,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA39C6F8-1764-4ED0-AFC1-2BBDD310E7DA_stringValue",
+      "value": "Depok, Jl. Margonda Raya"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FB29A92-F923-4D82-9B79-85B631F169A6_stringValue",
+      "value": "Grand Taman Melati Margo…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0A5759F0-F628-406D-9A5D-B1888F3B7C94_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/42b06f952a52384e16ac71099bb1e79cb26a2726",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2404206A-A367-4AF2-B88A-B6BF994963AA_symbolID",
+      "value": "1CC699F2-324B-4255-9A62-6EBA2E8AF51F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "592FBAC8-9917-4BB3-B3A6-1109B8A3C89B_stringValue",
+      "value": "Apartemen Disewakan"
+    }
+  ],
+  "overrides": {
+    "0A5759F0-F628-406D-9A5D-B1888F3B7C94": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/42b06f952a52384e16ac71099bb1e79cb26a2726",
+      "_ref_class": "MSImageData"
+    },
+    "1FB29A92-F923-4D82-9B79-85B631F169A6": "Grand Taman Melati Margo…",
+    "2404206A-A367-4AF2-B88A-B6BF994963AA": {
+      "symbolID": "1CC699F2-324B-4255-9A62-6EBA2E8AF51F"
+    },
+    "592FBAC8-9917-4BB3-B3A6-1109B8A3C89B": "Apartemen Disewakan",
+    "CA39C6F8-1764-4ED0-AFC1-2BBDD310E7DA": "Depok, Jl. Margonda Raya"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 2,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "DC2AA86C-AC44-42D1-963B-1F1B4A6B8472",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

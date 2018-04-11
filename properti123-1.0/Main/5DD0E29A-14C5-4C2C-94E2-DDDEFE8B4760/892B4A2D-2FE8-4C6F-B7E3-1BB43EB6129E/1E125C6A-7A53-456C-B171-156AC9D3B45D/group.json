@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "1E125C6A-7A53-456C-B171-156AC9D3B45D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 553,
+    "width": 551,
+    "x": 724,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "550A0278-D1E3-418B-B6B2-5FD8AC418633"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7708C98-EAA9-408C-AD33-D088E037F5DD"
+    },
+    {
+      "class": "text",
+      "id": "C315E4ED-4B29-418D-A3CC-F8A9F49B822A"
+    }
+  ],
+  "name": "Berita",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

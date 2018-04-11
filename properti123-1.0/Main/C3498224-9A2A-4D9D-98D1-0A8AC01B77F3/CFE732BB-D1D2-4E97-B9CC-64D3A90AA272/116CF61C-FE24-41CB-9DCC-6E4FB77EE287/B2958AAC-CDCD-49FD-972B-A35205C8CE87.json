@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B2958AAC-CDCD-49FD-972B-A35205C8CE87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 390,
+    "width": 357,
+    "x": 774,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F8AD271-122A-4797-B9C5-0A5465B73B72_stringValue",
+      "value": "Depok, Jl. Margonda Raya"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9319C60B-506A-4DC8-A461-164B81887A59_symbolID",
+      "value": "1CC699F2-324B-4255-9A62-6EBA2E8AF51F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FA648942-ECFF-4A26-9707-ADDB0EAE0A9F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/89201d3386465b2c66a14f226d3fdf383a294894",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "08D0F66D-327F-4849-8A7D-E0E1A6F23E67_stringValue",
+      "value": "Puri Indah"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "592FBAC8-9917-4BB3-B3A6-1109B8A3C89B_stringValue",
+      "value": "Apartemen Disewakan"
+    }
+  ],
+  "overrides": {
+    "08D0F66D-327F-4849-8A7D-E0E1A6F23E67": "Puri Indah",
+    "1F8AD271-122A-4797-B9C5-0A5465B73B72": "Depok, Jl. Margonda Raya",
+    "592FBAC8-9917-4BB3-B3A6-1109B8A3C89B": "Apartemen Disewakan",
+    "9319C60B-506A-4DC8-A461-164B81887A59": {
+      "symbolID": "1CC699F2-324B-4255-9A62-6EBA2E8AF51F"
+    },
+    "FA648942-ECFF-4A26-9707-ADDB0EAE0A9F": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/89201d3386465b2c66a14f226d3fdf383a294894",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 2,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "0BB7EBDD-ED89-4DCE-82F9-47BCB195D7B4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CSk1QVGBhYmNkZWZnaGpVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfEA8xNCBBZ3VzdHVzIDIwMTfTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgAuAE4AXgCBfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlEAEQANIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJAAAAAAAAF8QEU9wZW5TYW5zLVNlbWlib2xk0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LUQwpERUZHSEhaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAWgBSAFNISCktMoIAV0jg5Tk9XTlNBcnJheaJOPdI4OVFSXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjUVM9XxAQTlNQYXJhZ3JhcGhTdHlsZdMREgpVWh+kVldYWYAYgBmAGoAbpFtcXV6AHIAdgB6AH4AgU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/ZmZmZmZmaIz/wAAAAAAAAIz/ZmZmZmZmaIz/ZmZmZmZma0jg5PGmiPD3SODlrbF8QEk5TQXR0cmlidXRlZFN0cmluZ6JtPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFwcVRyb290gAEACAARABoAIwAtADIANwBcAGIAaQByAHkAhgCIAIoAjACeAKUArQC4AL4AwADCAMQAxgDIAM4A0ADSANQA1gDYANoBBQEMAS4BQQFuAXABcgF3AZQBlgGYAZ8BogGkAaYBqQGrAa0BrwHFAdsB5AH4Af0CCAIRAicCKwI4AkECRgJZAlwCbwJ4AoMCkAKcAp4CoAKiAqQCqQKqAqwCsQK5ArwCwQLbAt8C8gL5Av4DAAMCAwQDBgMLAw0DDwMRAxMDFQMZAx8DJAMqAzMDPANFA04DUwNWA1sDcANzA4gDmgOdA6IAAAAAAAACAQAAAAAAAAByAAAAAAAAAAAAAAAAAAADpA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8B6219B7-FF61-4346-A976-3A06466D39E3",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 85,
+    "x": 1,
+    "y": 27
+  },
+  "glyphBounds": "{{0, 3}, {85, 9}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "14 Agustus 2017",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "015FCD15-884B-44C4-A68A-0F8B627234B9"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

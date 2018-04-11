@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D6B2FADF-1DA8-437B-866C-2EDA045489B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 351,
+    "width": 260,
+    "x": 290,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card/Product Card (Default) Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4E5DDBFB-25DE-4ED9-97FB-C36A84FBAE53_stringValue",
+      "value": "Pondok Indah"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C63E832-7EFA-4AC7-8381-2F2D4EA2A184_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2880d922bd461ed09f88671bda9754b776421df5",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5BF908AD-71AD-4E7A-BA92-5B07BE1BEB16_symbolID",
+      "value": "1208083B-C00F-4EB8-8279-73E2C616BF5A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4356C4F4-5D39-4E89-8125-3FF2DA858D07_stringValue",
+      "value": "Rumah Bagus Di Pondok Ind…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68FCB869-A17F-4D44-B5DB-CD2AA545A01B_symbolID",
+      "value": "3084991B-8B57-44A4-B879-B3A31E75E570"
+    }
+  ],
+  "overrides": {
+    "4356C4F4-5D39-4E89-8125-3FF2DA858D07": "Rumah Bagus Di Pondok Ind…",
+    "4E5DDBFB-25DE-4ED9-97FB-C36A84FBAE53": "Pondok Indah",
+    "5BF908AD-71AD-4E7A-BA92-5B07BE1BEB16": {
+      "symbolID": "1208083B-C00F-4EB8-8279-73E2C616BF5A"
+    },
+    "68FCB869-A17F-4D44-B5DB-CD2AA545A01B": {
+      "symbolID": "3084991B-8B57-44A4-B879-B3A31E75E570"
+    },
+    "8C63E832-7EFA-4AC7-8381-2F2D4EA2A184": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/2880d922bd461ed09f88671bda9754b776421df5",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "32887F6E-7A2F-4A08-B28F-20595439F1FE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

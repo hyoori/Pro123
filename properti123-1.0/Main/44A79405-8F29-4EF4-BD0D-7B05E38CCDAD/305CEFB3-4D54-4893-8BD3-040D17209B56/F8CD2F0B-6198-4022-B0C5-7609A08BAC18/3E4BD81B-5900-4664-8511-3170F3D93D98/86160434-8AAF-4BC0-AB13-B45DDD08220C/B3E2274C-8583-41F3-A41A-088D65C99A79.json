@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAcHR4fKywtLi8wMTIzOUFER0pOVldYWVpdYVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QIlBlcnRhbnlhYW4gaW5pIG1lbWlsaWtpIDMwIGphd2FiYW7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAVgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/MnJycsAPRIz/wAAAAAAAAIz/tHR0dIWzwIz/Q0NDQxglC0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TUOgo7PD0+Pz9aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAUgBKAEtISCkJDoIAT0jQ1RUZXTlNBcnJheaJFONI0NUhJXxAQTlNQYXJhZ3JhcGhTdHlsZaJIONIKS0xNXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAHIAW0xESCk9SVaJQUYAXgBiiU1SAGYAagBtfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF8QEU9wZW5TYW5zLVNlbWlib2xk0jQ1W1xfEBNOU011dGFibGVEaWN0aW9uYXJ5o1s2ONI0NV5fXxAQTlNGb250RGVzY3JpcHRvcqJgOF8QEE5TRm9udERlc2NyaXB0b3LSNDViY18QEk5TQXR0cmlidXRlZFN0cmluZ6JkOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFnaFRyb290gAEACAARABoAIwAtADIANwBYAF4AZQBuAHUAggCEAIYAiACtALQAvADHAMsAzQDPANEA1QDXANkA2wDdAQoBHQE/AUYBSwFNAU8BUQFTAVgBWgFcAV4BYAFiAWYBbAFxAXcBgAGJAZIBmwGgAasBtAHBAcQBzQHWAeEB7gH6AfwB/gIAAgICBwIIAgoCDwIXAhoCHwIyAjUCOgJXAlkCWwJiAmUCZwJpAmwCbgJwAnICiAKeAqcCuwLAAtYC2gLfAvIC9QMIAw0DIgMlAzoDTANPA1QAAAAAAAACAQAAAAAAAABpAAAAAAAAAAAAAAAAAAADVg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B3E2274C-8583-41F3-A41A-088D65C99A79",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 241,
+    "x": 149,
+    "y": 11
+  },
+  "glyphBounds": "{{1, 4}, {239, 15}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Pertanyaan ini memil",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "9DF64752-619E-485F-98EF-C699BB0235D6"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

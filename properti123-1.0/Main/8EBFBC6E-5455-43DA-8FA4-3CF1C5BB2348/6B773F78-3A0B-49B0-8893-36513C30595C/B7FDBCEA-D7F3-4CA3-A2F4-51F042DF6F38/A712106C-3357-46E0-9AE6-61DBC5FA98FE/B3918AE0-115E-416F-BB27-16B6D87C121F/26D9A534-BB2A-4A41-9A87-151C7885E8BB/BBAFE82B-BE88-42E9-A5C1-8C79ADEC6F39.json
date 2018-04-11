@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2RlZmhpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxD2U2F5YSBpbmdpbiBtZW1iZWxpIHJ1bWFoIGRlbmdhbiBtZXRvZGUgYW5nc3VyYW4uIHRwIHRpZGFrIG1lbGFsdWkgS1BSLiBBbmdzdXJhbiB5YW5nIGRpbGFrdWthbiBsYW5nc3VuZyBrZSBwZW1pbGlrIGRlbmdhbiBhbmdzdXJhbiB5YW5nIGZsYXQgYXRhdSBwdW4gZGVuZ2FuIGtlc2VwYWthdGFuIGJlcnNhbWEgKG5hbXVuIHRpZGFrIG1lbWJlcmF0a2FuKS4gVW50dWsgRFAgU2F5YSBzaWFwIDUgRGluYXIgKGJlcmtpc2FyIDEwLi4u0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAHoAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iMkJSYKJygpKiksKlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAkjQDgAAAAAAACACYAL0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMzVYTlNPYmplY3TSMTI3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5NV8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo/QkWiQEGADoAPokNEgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABfEBRNZXJyaXdlYXRoZXItUmVndWxhctIxMktMXxATTlNNdXRhYmxlRGljdGlvbmFyeaNLTTVcTlNEaWN0aW9uYXJ50jEyT1BfEBBOU0ZvbnREZXNjcmlwdG9yolE1XxAQTlNGb250RGVzY3JpcHRvctMREgpTWB2kVFVWV4AVgBaAF4AYpFlaW1yAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz+2o7NfyKVmIz/wAAAAAAAAIz+2oaR+AskLIz+2oaR+AskL0jEyTWeiTTUjAAAAAAAAAADSMTJqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigGDAYoBkgGdAaIBpAGmAagBqgGvAbEBswG1AbcBuQHMAe4CGwIiAi8COgJGAlgCZQJ3AnkCewKEAoYCiAKNAo4CkAKVAqACqQKxArQCvQLCAtwC4ALzAvgDFQMXAxkDIAMjAyUDJwMqAywDLgMwA0YDXANlA3wDgQOXA5sDqAOtA8ADwwPWA90D4gPkA+YD6APqA+8D8QPzA/UD9wP5A/0EAwQIBA4EFwQgBCkEMgQ3BDoEQwRIBF0EYAR1BIcEigSPAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAABJE="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BBAFE82B-BE88-42E9-A5C1-8C79ADEC6F39",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 309,
+    "x": 0,
+    "y": 30
+  },
+  "glyphBounds": "{{-1, 4}, {307, 185}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Saya ingin membeli r",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C8803CFA-84E1-482D-81A5-04C55C8507B1"
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

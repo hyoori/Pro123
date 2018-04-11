@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "47D88AF7-7204-46ED-B35C-F9A5C03714B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 19,
+    "width": 22,
+    "x": 8,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "19F1CB4B-234E-4970-9CE7-860F41948C9F"
+    }
+  ],
+  "name": "valentines-heart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 21,
+            "enabled": 1,
+            "modelID": "constraint_dc22aacf-acc2-4776-a18f-379577ae8c71",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24.5
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1f57d98b-39fe-43f8-aa47-1fd680befb1f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

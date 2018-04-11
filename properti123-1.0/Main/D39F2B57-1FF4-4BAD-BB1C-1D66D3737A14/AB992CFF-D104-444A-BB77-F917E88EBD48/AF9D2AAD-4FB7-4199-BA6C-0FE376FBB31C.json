@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2RlZmhpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxECbVNhd2FuZ2FuIEhpbGxzIDMgbWVtaWxpa2kgZHVhIHRhaGFwIHBlcnVtYWhhbi4gVGFoYXAgMSBtZW1pbGlraSB0b3RhbCB1bml0IDU2IGRhbiBkYXJpIGp1bWxhaCBpdHUgeWFuZyB0ZXJzZWRpYSB0aW5nZ2FsIDIxIHVuaXQuIFNlZGFuZ2thbiB1bnR1ayB0YWhhcCAyIG1lbWlsaWtpIHRvdGFsIDc0IHVuaXQgZGFuIHRlcnNpc2EgMTIgdW5pdCBzYWF0IHR1bGlzYW4gaW5pIGRpYnVhdC4gU2F3YW5nYW4gSGlsbHMgMyBtZW1pbGlraSAyIHRpcGUgeWFpdHUgdGlwZSAzNiBkZW5nYW4gbHVhcyB0YW5haCAxMjBtMiBkYW4gbHVhcyBiYW5ndW5hbiAzNm0yIGRhbiBUaXBlIDQ1IGRlbmdhbiBsdWFzIHRhbmFoIDEyMG0yIGRhbiBsdWFzIGJhbmd1bmFuIDQ1bTIuIFVudHVrIHRpcGUgMzYgZGlqdWFsIGRlbmdhbiBoYXJnYSAzMDAganV0YWFuIGRhbiB0aXBlIDQ1IGRpYmFuZHJvbCA0MDAganV0YWFuLgoKQmViZXJhcGEgZmFzaWxpdGFzIHlhbmcgYWRhIGRpIGRhbGFtIGthd2FzYW4gU2F3YW5nYW4gSGlsbHMgMyBkaSBhbnRhcmFueWEgdGFtYW4gYmVybWFpbiBkYW4gbGFwYW5nYW4gYnVsdSB0YW5na2lzLiBQZXJ1bWFoYW4gaW5pIGp1Z2EgbWVtaWxpa2kga2VhbWFuYW4gMjQgamFtIHBlbnVoLtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgB6AHV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtYjJCUmCicoKSopLCpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAJI0A2AAAAAAAAgAmAC9ISCi4voIAK0jEyMzRaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojM1WE5TT2JqZWN00jEyNzhfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM3OTVfEBBOU1BhcmFncmFwaFN0eWxl0go7PD1fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKP0JFokBBgA6AD6JDRIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAWE9wZW5TYW5z0jEyS0xfEBNOU011dGFibGVEaWN0aW9uYXJ5o0tNNVxOU0RpY3Rpb25hcnnSMTJPUF8QEE5TRm9udERlc2NyaXB0b3KiUTVfEBBOU0ZvbnREZXNjcmlwdG9y0xESClNYHaRUVVZXgBWAFoAXgBikWVpbXIAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP7ajs1/IpWYjP/AAAAAAAAAjP7ahpH4CyQsjP7ahpH4CyQvSMTJNZ6JNNRAA0jEyamtfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibDVfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRb3BUcm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoC+wMCAwoDFQMaAxwDHgMgAyIDJwMpAysDLQMvAzEDRANmA5MDmgOnA7IDvgPQA90D7wPxA/MD/AP+BAAEBQQGBAgEDQQYBCEEKQQsBDUEOgRUBFgEawRwBI0EjwSRBJgEmwSdBJ8EogSkBKYEqAS+BNQE3QTmBOsFAQUFBRIFFwUqBS0FQAVHBUwFTgVQBVIFVAVZBVsFXQVfBWEFYwVnBW0FcgV4BYEFigWTBZwFoQWkBaYFqwXABcMF2AXqBe0F8gAAAAAAAAIBAAAAAAAAAHEAAAAAAAAAAAAAAAAAAAX0"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "AF9D2AAD-4FB7-4199-BA6C-0FE376FBB31C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 646,
+    "x": 0,
+    "y": 1208
+  },
+  "glyphBounds": "{{0, 5}, {645, 169}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sawangan Hills 3 mem",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C3DB4926-C5B0-4120-8747-E62F291308DA"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

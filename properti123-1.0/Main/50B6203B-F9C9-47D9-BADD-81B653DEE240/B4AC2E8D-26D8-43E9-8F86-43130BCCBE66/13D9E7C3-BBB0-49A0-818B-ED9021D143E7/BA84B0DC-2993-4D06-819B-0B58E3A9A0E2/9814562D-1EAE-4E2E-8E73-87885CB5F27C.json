@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9814562D-1EAE-4E2E-8E73-87885CB5F27C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 351,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card/Product Card (Default) Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "04111F30-6CA2-4913-BEAC-975A2A9E136D_stringValue",
+      "value": "Rumah Minimalis Dijual Ce…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FE97E61-AB62-4E68-984C-629C9C565DE3_stringValue",
+      "value": "Rumah Dijual"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "712F4832-6C5C-451C-874F-95183C794A2B_stringValue",
+      "value": "Pondok Indah"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6B8D8016-16C0-46E7-9B7E-78B20AFF65D9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4842a5ea9309c989ffd9cd0740c38a2d509c7f16",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "04111F30-6CA2-4913-BEAC-975A2A9E136D": "Rumah Minimalis Dijual Ce…",
+    "6B8D8016-16C0-46E7-9B7E-78B20AFF65D9": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/4842a5ea9309c989ffd9cd0740c38a2d509c7f16",
+      "_ref_class": "MSImageData"
+    },
+    "712F4832-6C5C-451C-874F-95183C794A2B": "Pondok Indah",
+    "9FE97E61-AB62-4E68-984C-629C9C565DE3": "Rumah Dijual"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C465E3C4-940F-4DF1-A666-155D0087D772",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

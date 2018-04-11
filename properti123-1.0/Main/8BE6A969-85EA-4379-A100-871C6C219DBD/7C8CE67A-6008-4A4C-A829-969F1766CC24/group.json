@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "7C8CE67A-6008-4A4C-A829-969F1766CC24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 554,
+    "width": 551,
+    "x": 146,
+    "y": 942
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8C1A24D7-EFE2-4DB8-893B-FD6E08108ACE"
+    },
+    {
+      "class": "text",
+      "id": "010D102F-F385-4BA5-88AB-D411C4823E80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1ED7C6B4-9278-4A2A-9294-3A2FB5E285F8"
+    }
+  ],
+  "name": "Review Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B8977A12-9CD8-45C6-B54D-E3BFBA8DF3CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 383,
+    "width": 260,
+    "x": 870,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Agent Card Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "71F62239-F157-4FCD-8651-87CC7B9D3097_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/817d430b950e8476d15da4fcf54dc5ad25f1643c",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3FCCB26F-DAA6-4B40-B213-30B9126A2580_stringValue",
+      "value": "Styven Wijaya"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E89F5CD-ECDD-420D-B20F-F502E15DFA55_stringValue",
+      "value": "Ray White"
+    }
+  ],
+  "overrides": {
+    "1E89F5CD-ECDD-420D-B20F-F502E15DFA55": "Ray White",
+    "3FCCB26F-DAA6-4B40-B213-30B9126A2580": "Styven Wijaya",
+    "71F62239-F157-4FCD-8651-87CC7B9D3097": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/817d430b950e8476d15da4fcf54dc5ad25f1643c",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C1B87F92-1383-40E2-95F6-9B071E78AB40",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

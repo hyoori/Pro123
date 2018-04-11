@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F7CB0CCC-34F1-4B24-95E3-6BBDA7C1BE0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 383,
+    "width": 260,
+    "x": 580,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Agent Card Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "71F62239-F157-4FCD-8651-87CC7B9D3097_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5796c1f3160e823b03cabfd40ae0b30a7a2b4850",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3FCCB26F-DAA6-4B40-B213-30B9126A2580_stringValue",
+      "value": "Agus Raharjo"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E89F5CD-ECDD-420D-B20F-F502E15DFA55_stringValue",
+      "value": "Century 21"
+    }
+  ],
+  "overrides": {
+    "1E89F5CD-ECDD-420D-B20F-F502E15DFA55": "Century 21",
+    "3FCCB26F-DAA6-4B40-B213-30B9126A2580": "Agus Raharjo",
+    "71F62239-F157-4FCD-8651-87CC7B9D3097": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/5796c1f3160e823b03cabfd40ae0b30a7a2b4850",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C1B87F92-1383-40E2-95F6-9B071E78AB40",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

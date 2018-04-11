@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2RlZmhpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxECVFNhd2FuZ2FuIGJha2FsIG1lbmphZGkga2F3YXNhbiBtYWp1IGtvdGEgRGVwb2sgc2V0ZWxhaCBNYXJnb25kYSwgZGFuIGtlc2VtcGF0YW4gQW5kYSB1bnR1ayBtZW1pbGlraSBydW1haCBkaSBrYXdhc2FuIGluaSBwdW4gbWFzaWggdGVyYnVrYSBsZWJhci4gVGlkYWsgcGVybHUgbWVtaWxpa2kgZGFuYSBkZW5nYW4ganVtbGFoIGZhbnRhc3RpcyB1bnR1ayBtZW1pbGlraSBydW1haCBkaSBTYXdhbmdhbiwgQW5kYSBiaXNhIG1lbnllc3VhaWthbiBidWRnZXQgbGV3YXQgcGVydW1haGFuIHlhbmcgdGVyamFuZ2thdSBzZXBlcnRpIFNhd2FuZ2FuIEhpbGxzIDMuCgpUZXJsZXRhayAzLDVrbSBkYXJpIHJlbmNhbmEgdG9sIERlc2FyaSwgcGVydW1haGFuIGluaSBtZW1pbGlraSBwb3RlbnNpIGJlc2FyIGRpIG1hc2EgbWVuZGF0YW5nLiBQZXJ1bWFoYW4gaW5pIGp1Z2EgbWVtYmVyaWthbiBsdWFzIHRhbmFoIHNlYmVzYXIgMTIwbTIgZGVuZ2FuIGhhcmdhIHJ1bWFoIFJwNDAwIGp1dGFhbiBzYWphLiAoQWRlIElnYW1hKQoKVGVydGFyaWsgbWVtYmFjYSB1bGFzYW4gcHJvcGVydGkgbGFpbiBkaSBEZXBvaz8gTGloYXQgcGlsaWhhbm55YSBkaSBzaW5pIQoK0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAHoAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iMkJSYKJygpKiksKlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAkjQDYAAAAAAACACYAL0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMzVYTlNPYmplY3TSMTI3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5NV8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo/QkWiQEGADoAPokNEgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABYT3BlblNhbnPSMTJLTF8QE05TTXV0YWJsZURpY3Rpb25hcnmjS001XE5TRGljdGlvbmFyedIxMk9QXxAQTlNGb250RGVzY3JpcHRvcqJRNV8QEE5TRm9udERlc2NyaXB0b3LTERIKU1gdpFRVVleAFYAWgBeAGKRZWltcgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/tqOzX8ilZiM/8AAAAAAAACM/tqGkfgLJCyM/tqGkfgLJC9IxMk1nok01EADSMTJqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigLiAukC8QL8AwEDAwMFAwcDCQMOAxADEgMUAxYDGAMrA00DegOBA44DmQOlA7cDxAPWA9gD2gPjA+UD5wPsA+0D7wP0A/8ECAQQBBMEHAQhBDsEPwRSBFcEdAR2BHgEfwSCBIQEhgSJBIsEjQSPBKUEuwTEBM0E0gToBOwE+QT+BREFFAUnBS4FMwU1BTcFOQU7BUAFQgVEBUYFSAVKBU4FVAVZBV8FaAVxBXoFgwWIBYsFjQWSBacFqgW/BdEF1AXZAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAABds="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "AF6FA5CE-7700-4D40-88C1-5087C3481086",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 233,
+    "width": 646,
+    "x": 0,
+    "y": 72
+  },
+  "glyphBounds": "{{-1, 5}, {640, 231}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sawangan bakal menja",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C3DB4926-C5B0-4120-8747-E62F291308DA"
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

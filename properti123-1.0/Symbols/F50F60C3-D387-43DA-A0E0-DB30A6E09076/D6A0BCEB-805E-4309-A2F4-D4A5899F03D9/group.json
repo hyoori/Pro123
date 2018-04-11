@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "D6A0BCEB-805E-4309-A2F4-D4A5899F03D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 43,
+    "width": 59,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E8DAD8F7-CBDE-42B3-B827-4D4F1302C0C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06FD233C-AC84-4139-9D43-C7CDE0F2D36A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2ACC9A1E-8209-4924-9BF0-012660326321"
+    }
+  ],
+  "name": "mail",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 43,
+            "enabled": 1,
+            "modelID": "constraint_f86c78f5-043a-4840-a342-302b301b14ad",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 59
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d305a21b-f1ce-4dc4-8d42-21c915f894a8",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "91E19B32-EDE3-4477-BD85-0A0F6D1C846D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 390,
+    "width": 357,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7A849C6A-1C87-4ECF-A777-B53746708B5F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2665e4504ee55dc0aacad13d70f2dbe8fa11f933",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "980B8A36-BA18-41AF-8E2F-8541FE7B90B4_stringValue",
+      "value": "Greenview Apartment"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9319C60B-506A-4DC8-A461-164B81887A59_symbolID",
+      "value": "1CC699F2-324B-4255-9A62-6EBA2E8AF51F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "592FBAC8-9917-4BB3-B3A6-1109B8A3C89B_stringValue",
+      "value": "Apartemen Disewakan"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8205A92-3A9F-4CA2-AAFE-18241F88F3B0_stringValue",
+      "value": "Jln. Sekolah Kencana 4, 12310"
+    }
+  ],
+  "overrides": {
+    "592FBAC8-9917-4BB3-B3A6-1109B8A3C89B": "Apartemen Disewakan",
+    "7A849C6A-1C87-4ECF-A777-B53746708B5F": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/2665e4504ee55dc0aacad13d70f2dbe8fa11f933",
+      "_ref_class": "MSImageData"
+    },
+    "9319C60B-506A-4DC8-A461-164B81887A59": {
+      "symbolID": "1CC699F2-324B-4255-9A62-6EBA2E8AF51F"
+    },
+    "980B8A36-BA18-41AF-8E2F-8541FE7B90B4": "Greenview Apartment",
+    "A8205A92-3A9F-4CA2-AAFE-18241F88F3B0": "Jln. Sekolah Kencana 4, 12310"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 2,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "D85BD8CC-62B8-4244-AC52-DFCD8840AB0B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

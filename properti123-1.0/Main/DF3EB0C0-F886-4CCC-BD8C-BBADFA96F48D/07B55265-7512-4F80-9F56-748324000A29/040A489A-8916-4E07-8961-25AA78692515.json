@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "040A489A-8916-4E07-8961-25AA78692515",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 351,
+    "width": 260,
+    "x": 290,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card/Product Card (Default) Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C63E832-7EFA-4AC7-8381-2F2D4EA2A184_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/69be475a53b6da9f3bdf057ac51557c72acbb451",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4356C4F4-5D39-4E89-8125-3FF2DA858D07_stringValue",
+      "value": "Rumah Bagus Di Pondok Ind…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4E5DDBFB-25DE-4ED9-97FB-C36A84FBAE53_stringValue",
+      "value": "Pondok Indah"
+    }
+  ],
+  "overrides": {
+    "4356C4F4-5D39-4E89-8125-3FF2DA858D07": "Rumah Bagus Di Pondok Ind…",
+    "4E5DDBFB-25DE-4ED9-97FB-C36A84FBAE53": "Pondok Indah",
+    "8C63E832-7EFA-4AC7-8381-2F2D4EA2A184": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/69be475a53b6da9f3bdf057ac51557c72acbb451",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "32887F6E-7A2F-4A08-B28F-20595439F1FE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

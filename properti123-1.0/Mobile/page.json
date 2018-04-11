@@ -1,0 +1,109 @@
+{
+  "_class": "page",
+  "do_objectID": "C11E6D9A-0EFD-4BBE-9B8B-20B16240A226",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -425,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "B591CEEC-31BF-4B92-B95D-E1DDBA2FC974"
+    },
+    {
+      "class": "artboard",
+      "id": "1F6C89C0-D8D8-4504-A308-0C1C2F5BEC16"
+    },
+    {
+      "class": "artboard",
+      "id": "E8643E6B-682D-4EAF-9CAF-5AEB9D7A5E67"
+    },
+    {
+      "class": "artboard",
+      "id": "41507439-215E-407A-ACA5-C24D225F2D39"
+    },
+    {
+      "class": "artboard",
+      "id": "1B1D73EE-DA26-46AF-BE34-E42D62D44851"
+    },
+    {
+      "class": "artboard",
+      "id": "4F63751D-4E71-480F-A43A-999BECE91DE8"
+    },
+    {
+      "class": "artboard",
+      "id": "47B302E2-43C0-45DC-A80E-6D949D20B6BD"
+    },
+    {
+      "class": "artboard",
+      "id": "0ACF0F9A-297F-4102-A783-97FEB0B61FD7"
+    },
+    {
+      "class": "artboard",
+      "id": "1B886F29-E00D-4873-A12E-31DF42AAC443"
+    },
+    {
+      "class": "artboard",
+      "id": "4D33B605-65D4-4990-9F8F-D0C21FB5CF00"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -298,
+    "guides": [
+    ]
+  }
+}

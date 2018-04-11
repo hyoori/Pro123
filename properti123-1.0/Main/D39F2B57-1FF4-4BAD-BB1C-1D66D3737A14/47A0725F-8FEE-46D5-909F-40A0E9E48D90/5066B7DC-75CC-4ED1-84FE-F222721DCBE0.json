@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGrq9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMAcIERIYJSYnKCk0Nz1BRU1OT1BRVVllZmdoaWprbG1vcHx9foOGjo+QnJ2en6KmqlUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKALYADgC9fEJBQZW51bGlzIGFkYWxhaCBzZW5pb3IgY29udGVudCB3cml0ZXIgZGkgUnVtYWguY29tLiBVbnR1ayBiZXJrb211bmlrYXNpIGRlbmdhbiBwZW51bGlzLCBBbmRhIGRhcGF0IG1lbmdpcmltIGVtYWlsIGtlOiBsdW5hbGVvbmFyZEBwcm9wZXJ0aTEyMy5jb23SEwwUF1pOUy5vYmplY3RzohUWgASAIIAs0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADYAVgB+AHl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtYqKywtDC4vMDEwMzFaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAKI0A2AAAAAAAAgAqADNITDDU2oIAL0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojo8WE5TT2JqZWN00jg5Pj9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM+QDxfEBBOU1BhcmFncmFwaFN0eWxl0gxCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TGRMMRklMokdIgA+AEKJKS4ARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAWE9wZW5TYW5z0jg5UlNfEBNOU011dGFibGVEaWN0aW9uYXJ5o1JUPFxOU0RpY3Rpb25hcnnSODlWV18QEE5TRm9udERlc2NyaXB0b3KiWDxfEBBOU0ZvbnREZXNjcmlwdG9y0xkTDFpfJKRbXF1egBaAF4AYgBmkYGFiY4AagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP7ajs1/IpWYjP/AAAAAAAAAjP7ahpH4CyQsjP7ahpH4CyQvSODlUbqJUPBAA0xkTDHF2JKQbc3QegAWAIYAigAikd3h5I4AjgCSAKIAfgB5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRl1iorLC0MLi8wMTAzMYAAgAqACoAM0gxCQ4WAFIAl0xkTDIeKTKKIiYAmgCeiSkuAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZdMZEwyRliSkW1xdXoAWgBeAGIAZpJdhmZqAKYAbgCqAK4AeIz/LmXwAAAAAIz/tmbrAAAAAIz/NFnqAAAAA0jg5oKFeTlNNdXRhYmxlQXJyYXmjoDo80qMMpKVXTlMuZGF0YUR1ABsBgC7SODmnqF1OU011dGFibGVEYXRho6epPFZOU0RhdGHSODmrrF8QEk5TQXR0cmlidXRlZFN0cmluZ6KtPF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGwsVRyb290gAEACAARABoAIwAtADIANwBqAHAAeQCCAJQAoQCoAKoArACuALABQwFIAVMBVgFYAVoBXAFjAWsBcAFyAXQBdgF4AX0BfwGBAYMBhQGHAZoBvAHpAfAB/QIIAhQCJgIzAkUCRwJJAlICVAJWAlsCXAJeAmMCbgJ3An8CggKLApACqgKuAsECxgLjAuUC5wLuAvEC8wL1AvgC+gL8Av4DFAMqAzMDPANBA1cDWwNoA20DgAODA5YDnQOiA6QDpgOoA6oDrwOxA7MDtQO3A7kDvQPDA8gDzgPXA+AD6QPyA/cD+gP8BAMECAQKBAwEDgQQBBUEFwQZBBsEHQQfBEEEbgR7BH0EfwSBBIMEiASKBIwEkwSWBJgEmgSdBJ8EoQSjBLkEzwTWBNsE3QTfBOEE4wToBOoE7ATuBPAE8gT7BQQFDQUSBSEFJQUqBTIFNwU5BT4FTAVQBVcFXAVxBXQFiQWbBZ4FowAAAAAAAAIBAAAAAAAAALIAAAAAAAAAAAAAAAAAAAWl"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "5066B7DC-75CC-4ED1-84FE-F222721DCBE0",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 525,
+    "x": 86,
+    "y": 57
+  },
+  "glyphBounds": "{{0, 5}, {515, 37}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Penulis adalah senio",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C3DB4926-C5B0-4120-8747-E62F291308DA"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

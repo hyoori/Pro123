@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2RlZmhpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxEBPExpc3RpbmcgYW5kYSBha2FuIHRlcmxpaGF0IHNlcGVydGkgaW5pIGRhbGFtIGplbmlzICJkYWZ0YXIgZm90byIgZGFsYW0gaGFzaWwgcGVuY2FyaWFuLiBQZXJoYXRpa2FuIGJhaHdhIGluaSBoYW55YWxhaCBzZWJ1YWggcGVya2lyYWFuIGRpbWVuc2kgZGFuIHBlbmdhcmFoYW4gZ2F5YSBiZXJiZWRhLWJlZGEgdGVyZ2FudHVuZyB0ZW1wYXQgbGlzdGluZyBkaXR1bmp1a2thbiBwYWRhIGJhZ2lhbiBzaXR1cyB0ZXJ0ZW50dS4gS2xpayBsaW5rIHVudHVrIG1lbGloYXQgaGFsYW1hbiBwcmF0aW5qYXUga2V0ZXJhbmdhbiBsaXN0aW5nIHNlY2FyYSBwZW51aC7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAegB1fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WIyQlJgonKCkqKSwqWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACSNANgAAAAAAAIAJgAvSEgouL6CACtIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIzNVhOU09iamVjdNIxMjc4XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNzk1XxAQTlNQYXJhZ3JhcGhTdHlsZdIKOzw9XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCj9CRaJAQYAOgA+iQ0SAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFhPcGVuU2Fuc9IxMktMXxATTlNNdXRhYmxlRGljdGlvbmFyeaNLTTVcTlNEaWN0aW9uYXJ50jEyT1BfEBBOU0ZvbnREZXNjcmlwdG9yolE1XxAQTlNGb250RGVzY3JpcHRvctMREgpTWB2kVFVWV4AVgBaAF4AYpFlaW1yAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz+2o7NfyKVmIz/wAAAAAAAAIz+2oaR+AskLIz+2oaR+AskL0jEyTWeiTTUQANIxMmprXxASTlNBdHRyaWJ1dGVkU3RyaW5nomw1XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W9wVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAcoB0QHZAeQB6QHrAe0B7wHxAfYB+AH6AfwB/gIAAhMCNQJiAmkCdgKBAo0CnwKsAr4CwALCAssCzQLPAtQC1QLXAtwC5wLwAvgC+wMEAwkDIwMnAzoDPwNcA14DYANnA2oDbANuA3EDcwN1A3cDjQOjA6wDtQO6A9AD1APhA+YD+QP8BA8EFgQbBB0EHwQhBCMEKAQqBCwELgQwBDIENgQ8BEEERwRQBFkEYgRrBHAEcwR1BHoEjwSSBKcEuQS8BMEAAAAAAAACAQAAAAAAAABxAAAAAAAAAAAAAAAAAAAEww=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "7C447826-E657-4A21-83AF-E2D9214AE61F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 110,
+    "width": 518,
+    "x": 16,
+    "y": 73
+  },
+  "glyphBounds": "{{1, 5}, {494, 103}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Listing anda akan te",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C3DB4926-C5B0-4120-8747-E62F291308DA"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

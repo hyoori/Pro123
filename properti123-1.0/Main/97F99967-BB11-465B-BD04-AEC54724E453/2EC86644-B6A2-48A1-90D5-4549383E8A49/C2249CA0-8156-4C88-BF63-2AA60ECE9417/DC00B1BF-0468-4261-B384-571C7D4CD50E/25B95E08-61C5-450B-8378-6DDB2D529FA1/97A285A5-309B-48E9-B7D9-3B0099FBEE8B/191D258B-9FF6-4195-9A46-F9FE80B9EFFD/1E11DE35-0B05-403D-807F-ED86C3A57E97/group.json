@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "1E11DE35-0B05-403D-807F-ED86C3A57E97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14313529-6A97-463E-98D4-9467914E19EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B6687DA-C0B3-43A3-BEFE-3486D90DD83F",
+    "height": 40,
+    "width": 162,
+    "x": 356,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "00BEAC13-1260-4A7B-8A2C-4C0341A0797A"
+    },
+    {
+      "class": "text",
+      "id": "25DAB1FE-0FF3-4FCC-AE8D-120F784CC193"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B603973-213B-4FBD-9928-9806C5853FF7"
+    }
+  ],
+  "name": "Field Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4BE735AD-BAE1-4120-B4B1-08939B25E412",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_99f4b5a3-d03f-462d-b6da-16ca710eca79",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_cc3c76cf-4763-4474-a004-976e6b561931",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4EE566E5-02D0-4318-B331-AB6D087E40E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 313,
+    "width": 260,
+    "x": 870,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Product Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D6E92DC-6C1F-4738-9F1F-EEE86C17C44C_stringValue",
+      "value": "River Valley Residence"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9FBC270-D967-4CCD-B829-D475D7EE63BC_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "77E1A267-BFB4-47FC-842F-FEE0F963B492_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4e9625cf75b2ec529d79c6c3eaa52e6a9d73c6ca",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E8A9E66-B8F7-44EE-8FFC-7A8122004D30_stringValue",
+      "value": "Deli Serdang, Sumatera Utara"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F85F16B8-0E8A-409F-90B6-D016162B5226_stringValue",
+      "value": "Rumah Dijual"
+    }
+  ],
+  "overrides": {
+    "3E8A9E66-B8F7-44EE-8FFC-7A8122004D30": "Deli Serdang, Sumatera Utara",
+    "5D6E92DC-6C1F-4738-9F1F-EEE86C17C44C": "River Valley Residence",
+    "77E1A267-BFB4-47FC-842F-FEE0F963B492": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/4e9625cf75b2ec529d79c6c3eaa52e6a9d73c6ca",
+      "_ref_class": "MSImageData"
+    },
+    "F85F16B8-0E8A-409F-90B6-D016162B5226": "Rumah Dijual",
+    "F9FBC270-D967-4CCD-B829-D475D7EE63BC": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 2,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "3686B45B-DE75-46DB-9076-2A821DF9ABA0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
